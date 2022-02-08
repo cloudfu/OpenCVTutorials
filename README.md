@@ -1,3 +1,5 @@
+# 对应教程网址：http://woshicver.com/
+
 # 写在前面的话
 
 **OpenCV**是计算机视觉中经典的专用库，其支持多语言、跨平台，功能强大。**OpenCV-Python**为OpenCV提供了Python接口，使得使用者在Python中能够调用C/C++，在保证易读性和运行效率的前提下，实现所需的功能。
